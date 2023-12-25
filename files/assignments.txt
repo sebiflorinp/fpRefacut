@@ -1,0 +1,5 @@
+1, Ionescu, 200, 1_1, A problem, 10/10/2000, 10
+2, Andreescu, 200, 1_1, A problem, 10/10/2000, 9
+3, Antonescu, 200, 1_1, A problem, 10/10/2000, 9
+4, AAAAAA, 200, 1_1, A problem, 10/10/2000, 5
+4, AAAAAA, 200, 1_2, A hard one, 10/10/2000, 1
